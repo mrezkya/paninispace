@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Poppins', 'Courier New', Courier, monospace;
+}
+
+.hero {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 100px;
+    height: 50px;
+    border-radius: 0 10px 10px 10px;
+    background-color: wheat;
+}
+
+.hero h4 {
+    position: absolute;
+    left: 10px;
+    margin-top: 15px;
+}
+
+.opt {
+    position: absolute;
+    left: 400px;
+    background-color: wheat;
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.opt ul {
+    margin-top: 10px;
+}
+
+.opt a {
+    padding-left: 23px;
+    word-spacing: 20px;
+    justify-content: space-between;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.login {
+    position: absolute;
+    left: 1245px;
+    border-radius: 10px 0px 10px 10px;
+    background-color: wheat;
+    height: 50px;
+    width: 100px;
+    justify-content: space-between;
+}
+
+#login {
+    position: absolute;
+    margin-top: 5px;
+    top: 10px;
+    left: 65px;
+}
+
+.login h4 {
+    margin-top: 0px;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
+.herop {
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+}
+
+#herophoto {
+    height: 100%;
+    width: 200px;
+    border-radius: 0px 10px 10px 10px;
+}
+
+#anjay {
+    position: absolute;
+    top: 150px;
+    left: 250px;
+}
+
+#btn {
+    position: absolute;
+    top: 300px;
+    left: 250px;
+    background-color: wheat;
+    width: 115px;
+    height: 50px;
+    border-radius: 10px 10px 0px 10px;
+}
+
+#btn h4 {
+    margin-top: 0px;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+}
+
+#btnico {
+    margin-top: 0px;
+    position: absolute;
+    top: 15px;
+    left: 10px;
+}
+
+#btn2 {
+    position: absolute;
+    top: 300px;
+    left: 380px;
+    background-color: wheat;
+    width: 115px;
+    height: 50px;
+    border-radius: 10px 10px 10px 0px;
+    stroke: black;
+}
+
+#btn2ico {
+    margin-top: 0px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+#btn2 h4 {
+    margin-top: 0px;
+    position: absolute;
+    top: 10px;
+    left: 40px;
+}
+
+.cover {
+    position: absolute;
+    left: 63%;
+    width: 500px;
+    height: 613px;
+    background-color: salmon;
+    overflow: hidden;
+}
+
+.cover img {
+    position: absolute;
+    left: -661px;
+    width: 1366px;
+    height: 618px;
+}
+
+.card {
+    position: absolute;
+    top: 380px;
+    width: 700px;
+    height: 200px;
+    background-color: wheat;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.card {
+    text-align: left;
+    padding-left: 10px;
+}
+
+/* lagi proses pengembangan */
+/* .err {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 250px;
+    height: 250px;
+    background-color: white;
+} */
